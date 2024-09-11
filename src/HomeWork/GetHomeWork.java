@@ -8,4 +8,9 @@ public class GetHomeWork {
 	String firstName = "john";
 	String lasName = "cena";
 	String city = "Reston";
+
+	/*** 
+	this is coming from GitHub
+	java is fun 
+	*/
 }
