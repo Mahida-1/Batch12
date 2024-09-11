@@ -8,4 +8,8 @@ public class GetHomeWork {
 		
 		
 	}
+	public static void dd (int a, int b) {
+		System.out.println (a+b);
+	}
+	
 }
